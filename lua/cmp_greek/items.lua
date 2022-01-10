@@ -20,19 +20,33 @@ return function()
     { word = ":Iota:", label = ":Ι Iota:", insertText = "Ι", filterText = ":Iota:" },
     { word = ":kappa:", label = ":κ kappa:", insertText = "κ", filterText = ":kappa:" },
     { word = ":Kappa:", label = ":Κ Kappa:", insertText = "Κ", filterText = ":Kappa:" },
+    { word = ":lambda:", label = ":λ lambda:", insertText = "λ", filterText = ":lambda:" },
+    { word = ":Lambda:", label = ":Λ Lambda:", insertText = "Λ", filterText = ":Lambda:" },
+    { word = ":mu:", label = ":μ mu:", insertText = "μ", filterText = ":mu:" },
+    { word = ":Mu:", label = ":Μ Mu:", insertText = "Μ", filterText = ":Mu:" },
+    { word = ":nu:", label = ":ν nu:", insertText = "ν", filterText = ":nu:" },
+    { word = ":Nu:", label = ":Ν Nu:", insertText = "Ν", filterText = ":Nu:" },
+    { word = ":xi:", label = ":ξ xi:", insertText = "ξ", filterText = ":xi:" },
+    { word = ":Xi:", label = ":Ξ Xi:", insertText = "Ξ", filterText = ":Xi:" },
+    { word = ":omicron:", label = ":ο omicron:", insertText = "ο", filterText = ":omicron:" },
+    { word = ":Omicron:", label = ":Ο Omicron:", insertText = "Ο", filterText = ":Omicron:" },
+    { word = ":pi:", label = ":π pi:", insertText = "π", filterText = ":pi:" },
+    { word = ":Pi:", label = ":Π Pi:", insertText = "Π", filterText = ":Pi:" },
+    { word = ":rho:", label = ":ρ rho:", insertText = "ρ", filterText = ":rho:" },
+    { word = ":Rho:", label = ":Ρ Rho:", insertText = "Ρ", filterText = ":Rho:" },
+    { word = ":sigma:", label = ":σ sigma:", insertText = "σ", filterText = ":sigma:" },
+    { word = ":Sigma:", label = ":Σ Sigma:", insertText = "Σ", filterText = ":Sigma:" },
+    { word = ":tau:", label = ":τ tau:", insertText = "τ", filterText = ":tau:" },
+    { word = ":Tau:", label = ":Τ Tau:", insertText = "Τ", filterText = ":Tau:" },
+    { word = ":upsilon:", label = ":υ upsilon:", insertText = "υ", filterText = ":upsilon:" },
+    { word = ":Upsilon:", label = ":Υ Upsilon:", insertText = "Υ", filterText = ":Upsilon:" },
+    { word = ":phi:", label = ":Φ phi:", insertText = "Φ", filterText = ":phi:" },
+    { word = ":Phi:", label = ":Φ Phi:", insertText = "Φ", filterText = ":Phi:" },
+    { word = ":chi:", label = ":χ chi:", insertText = "χ", filterText = ":chi:" },
+    { word = ":Chi:", label = ":Χ Chi:", insertText = "Χ", filterText = ":Chi:" },
+    { word = ":psi:", label = ":ψ psi:", insertText = "ψ", filterText = ":psi:" },
+    { word = ":Psi:", label = ":Ψ Psi:", insertText = "Ψ", filterText = ":Psi:" },
+    { word = ":omega:", label = ":ω omega:", insertText = "ω", filterText = ":omega:" },
+    { word = ":Omega:", label = ":Ω Omega:", insertText = "Ω", filterText = ":Omega:" },
   }
 end
--- Λ       | λ     | Lambda
--- Μ       | μ     | Mu
--- Ν       | ν     | Nu
--- Ξ       | ξ     | Xi
--- Ο       | ο     | Omicron
--- Π       | π     | Pi
--- Ρ       | ρ     | Rho
--- Σ       | σ     | Sigma
--- Τ       | τ     | Tau
--- Υ       | υ     | Upsilon
--- Φ       | φ     | Phi
--- Χ       | χ     | Chi
--- Ψ       | ψ     | Psi
--- Ω       | ω     | Omega
